@@ -14,12 +14,8 @@ $_POST["insert your message here"]. "From: an@email.address");
        <h1>My First Sentence!!</h1>
         
         <form method="post" action="subscriberform.php">
-
-
-<textarea name="message"></textarea>
-
-
-<input type="submit">
+        <textarea name="message"></textarea>
+        <input type="submit">
 
 
 </form>
